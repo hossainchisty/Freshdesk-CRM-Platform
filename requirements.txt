@@ -70,7 +70,7 @@ PyJWT==2.1.0
 pyOpenSSL==21.0.0
 pyotp==2.6.0
 pyparsing==2.4.7
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pytest==6.2.4
 python-bidi==0.4.2
 python-dotenv==0.19.2
